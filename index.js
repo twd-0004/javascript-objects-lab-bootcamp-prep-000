@@ -10,4 +10,6 @@ function updateObjectWithKeyAndValue(object, key, value) {
   return newObj
 }
 
-function 
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
+  
+}
